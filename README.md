@@ -1,6 +1,6 @@
 # GLOSSÁRIO / DICIONÁRIO 
 
-## Para facilitar na sua jornada, separei algumas palavras interessantes para lhe ajudar:
+## Para facilitar na sua jornada, separei algumas palavras interessantes:
 
 
 *FEES* = Taxas - Porcentagem que você paga para Exchange a cada operação(venda ou compra).
