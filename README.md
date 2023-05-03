@@ -1,0 +1,1 @@
+# trader-iniciando-do-zero
